@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d8f793b32e13154084cdf3233fe8118
+timeCreated: 1546279035
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/Materials/PPC_PlanetWRim.mat
+  uploadId: 287847

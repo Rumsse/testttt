@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55bd740def00d124dbcf4fb2a2246f38
+timeCreated: 1547034664
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Starkiller.asset
+  uploadId: 287847

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b04e314a1b1f13f4987dd1cac6248f35
+timeCreated: 1547033789
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Debris.asset
+  uploadId: 287847

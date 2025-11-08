@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45c11906d3ffa484abafaf6e88049926
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Shaders/PPC_PassShadow.cginc
+  uploadId: 287847

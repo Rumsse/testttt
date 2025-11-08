@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccc8d3a9e1ff672458ca767ae53206c6
+timeCreated: 1547139379
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Metallic.asset
+  uploadId: 287847

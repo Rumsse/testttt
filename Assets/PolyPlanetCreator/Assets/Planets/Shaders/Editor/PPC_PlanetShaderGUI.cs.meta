@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c45900dcb6b34a4e8c57c0f4b3f99d6
+timeCreated: 1545931243
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Shaders/Editor/PPC_PlanetShaderGUI.cs
+  uploadId: 287847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5a3eda319a7852448fad6f0e4207163
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Shaders/PPC_PassTerrain.cginc
+  uploadId: 287847

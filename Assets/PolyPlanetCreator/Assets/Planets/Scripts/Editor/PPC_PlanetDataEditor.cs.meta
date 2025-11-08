@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4bfe0b46a9f0a1e44a00cc4a5b133795
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Scripts/Editor/PPC_PlanetDataEditor.cs
+  uploadId: 287847

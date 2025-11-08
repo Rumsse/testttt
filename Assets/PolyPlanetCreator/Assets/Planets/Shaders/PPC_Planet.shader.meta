@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e40612ddfaf218f429dbff46b380f96b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Shaders/PPC_Planet.shader
+  uploadId: 287847

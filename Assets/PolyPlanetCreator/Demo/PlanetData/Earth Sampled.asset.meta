@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6808dc5e8d16077449f40fd9f70bdf6f
+timeCreated: 1547143887
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Earth Sampled.asset
+  uploadId: 287847

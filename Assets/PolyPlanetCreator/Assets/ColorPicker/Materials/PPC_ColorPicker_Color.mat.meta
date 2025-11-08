@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b1aeb2a8dd06724ea6bfc71ba8d73b8
+timeCreated: 1545729359
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/ColorPicker/Materials/PPC_ColorPicker_Color.mat
+  uploadId: 287847

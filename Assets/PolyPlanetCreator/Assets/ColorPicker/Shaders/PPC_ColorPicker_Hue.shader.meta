@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5f4ed27cb2711748b5767cb2094ffda
+timeCreated: 1545729358
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/ColorPicker/Shaders/PPC_ColorPicker_Hue.shader
+  uploadId: 287847

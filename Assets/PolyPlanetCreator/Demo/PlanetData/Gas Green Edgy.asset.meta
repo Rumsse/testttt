@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91ee4f0908d799344ab0d60078d30f80
+timeCreated: 1546866828
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Gas Green Edgy.asset
+  uploadId: 287847

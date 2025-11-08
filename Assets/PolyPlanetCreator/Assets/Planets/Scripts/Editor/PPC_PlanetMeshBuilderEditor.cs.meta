@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0391963d45494934c897249b6b3c6207
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Scripts/Editor/PPC_PlanetMeshBuilderEditor.cs
+  uploadId: 287847

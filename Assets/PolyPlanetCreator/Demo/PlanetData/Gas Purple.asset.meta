@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a67d52475f1e2704b81b21cdfbf98fc5
+timeCreated: 1546866828
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Gas Purple.asset
+  uploadId: 287847

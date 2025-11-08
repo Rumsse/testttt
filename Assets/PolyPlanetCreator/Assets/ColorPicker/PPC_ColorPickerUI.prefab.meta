@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfa88cb96751fda4cb803f678650f0de
+timeCreated: 1545847787
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/ColorPicker/PPC_ColorPickerUI.prefab
+  uploadId: 287847

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8469aeff119c8b345bc69c9d1c49da10
+timeCreated: 1545936465
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Assets/Planets/Scripts/PPC_PlanetManager.cs
+  uploadId: 287847

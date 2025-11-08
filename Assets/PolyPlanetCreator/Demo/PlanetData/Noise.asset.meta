@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22e059c9d04548f44bc559abbeee625e
+timeCreated: 1546884568
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Noise.asset
+  uploadId: 287847

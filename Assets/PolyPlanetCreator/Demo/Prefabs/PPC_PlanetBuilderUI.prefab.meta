@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e835434698a28a44a2f9f618bf645b3
+timeCreated: 1547114439
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/Prefabs/PPC_PlanetBuilderUI.prefab
+  uploadId: 287847

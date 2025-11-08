@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac585bc7ade678e4caa377f1cc7d08b0
+timeCreated: 1546514264
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Island.asset
+  uploadId: 287847

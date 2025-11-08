@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 293eb6b67d14ec049ac96456387c4c65
+timeCreated: 1547488128
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Resources/PPC_PlanetManager.asset
+  uploadId: 287847

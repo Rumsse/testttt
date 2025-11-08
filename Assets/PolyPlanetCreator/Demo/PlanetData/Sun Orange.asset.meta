@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81c034e2d3a6ede4a90f33d83e2b12ec
+timeCreated: 1546866403
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Sun Orange.asset
+  uploadId: 287847

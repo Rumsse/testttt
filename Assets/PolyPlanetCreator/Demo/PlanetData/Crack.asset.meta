@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6c915c3025d0114380fefe3bd99f46d
+timeCreated: 1547058815
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136890
+  packageName: Poly Planet Creator
+  packageVersion: 1.0
+  assetPath: Assets/PolyPlanetCreator/Demo/PlanetData/Crack.asset
+  uploadId: 287847
